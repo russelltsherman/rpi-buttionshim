@@ -13,4 +13,4 @@ curl https://raw.githubusercontent.com/russelltsherman/rpi-buttonshim/master/bin
 - Github - `https://github.com/pimoroni/button-shim`
 - Guides and tutorials - `https://learn.pimoroni.com/button-shim`
 - Function reference - `http://docs.pimoroni.com/buttonshim/`
-- GPIO Pinout - `https://pinout.xyz/pinout/buttonshim`
+- GPIO Pinout - `https://pinout.xyz/pinout/button_shim`
